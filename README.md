@@ -4,9 +4,9 @@ Learning Plan
 Areas that need improvement
 ----------
 
-* CSS and front end CSS frameworks
+* CSS
 * Polish up some old code
-* JavaScript front end frameworks including Angular, React, Jquery
+* JavaScript front end frameworks including Angular
 * Meteor
 
 Books I'm planning to read
@@ -18,8 +18,8 @@ Books I'm planning to read
 Interesting Articles I want to digest
 ----------
 
-* SVG related content
-*	Learn CSS layout
+* http://svgpocketguide.com/
+*	http://learnlayout.com/
 
 Challenges
 ----------
@@ -30,4 +30,8 @@ Challenges
 Plan
 -------
 
-*
+* Monday - Bowling Scorecard
+* Tuesday - CSS Thermostat (ground up), Bit more on Scorecard
+* Wednesday - Chitter(make it look pretty), Start Chitter challenge given by Mihai, CodeWars
+* Thursday - Codewars, Mihai Challenge
+* Friday - Scorecard, Mihai Challenge
